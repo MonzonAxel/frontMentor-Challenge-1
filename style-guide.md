@@ -7,7 +7,7 @@ The designs were created to the following widths:
 - Mobile: 375px
 - Tablet 768px
 - Resolution High 894px
-- Another Resolution 1080px
+- Another Resolution 1160px
 - Desktop: 1440px
 
 ## Colors
